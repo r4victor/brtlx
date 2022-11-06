@@ -22,3 +22,7 @@ Although this book predates all recent Unix developments, it's still an excellen
 [Advanced Programming in the UNIX Environment, 3rd edition](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739)
 paid • book • by W. Richard Stevens, Stephen Rago • 2013-05-14
 This book is the best reference on Unix programming. It describes the interfaces provided by Unix systems – the system calls and the C standard library functions. Of course, this is what man pages do, but this book also presents examples and rationale, gives a historical context, compares different Unix systems, and overall makes it interesting to explore Unix capabilities.
+
+[UNIX: A History and a Memoir](https://www.amazon.com/UNIX-History-Memoir-Brian-Kernighan/dp/1695978552)
+paid • book • by Brian Kernighan • 2019-10-18
+Brian Kernighan joined Bell Labs just before Unix inception and was actively involved in its development. In this book, he tells the story of Unix from its early days to its modern legacy. This is a story of a remarkable working environment, great people, and influential design choices. It helps you better understand why Unix became what it is and why it was such a success.
