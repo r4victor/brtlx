@@ -30,3 +30,7 @@ GNU Coreutils is an implementation of Unix utilities for GNU/Linux distributions
 [Greg's Wiki](https://mywiki.wooledge.org/EnglishFrontPage)
 free • resource
 This is an indispensable resource for anyone doing shell programming. [BashFAQ](https://mywiki.wooledge.org/BashFAQ) tells how to do certain things in Bash, and [BashPitfalls](https://mywiki.wooledge.org/BashPitfalls) tells what to avoid. [BashSheet](https://mywiki.wooledge.org/BashSheet) condenses all of the Bash syntax and features on a small page. [BashGuide](https://mywiki.wooledge.org/BashGuide) is the best introduction to Bash with lots of examples and practical advice. Although the wiki is devoted to Bash, there is the [Bashism](https://mywiki.wooledge.org/Bashism) page that summarizes Bash-specific features.
+
+[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+free • resource • by Joshua Levy
+This repo lists shell features and CLI tools that you need to know to master the command line from the basics like file management to advanced tips and obscure commands.
