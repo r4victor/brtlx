@@ -31,6 +31,57 @@ If you want to suggest a new resource, just open an issue. The person who curate
 
 If you want to become a topic curator, please drop me an email: victor@tenthousandmeters.com. I'd like to learn a bit about you, what topics you're interested in, and what you can cover.
 
+## Topics roadmap
+
+The following is a list of all the topics already covered (✅) and the topics that we plan to cover next (🕓):
+
+✅ Languages
+* ✅ C
+* 🕓 Go
+* 🕓 HTML and CSS
+* 🕓 Java
+* 🕓 JavaScript
+* ✅ Python
+* ✅ Shell
+* 🕓 SQL
+
+✅ Libraries and frameworks
+* ✅ Django
+* 🕓 React
+* 🕓 Ruby on Rails
+
+✅ Tools and other software
+* 🕓 AWS
+* ✅ Docker
+* ✅ Git
+* 🕓 Kubernetes
+
+✅ Databases
+* 🕓 MongoDB
+* 🕓 MySQL
+* ✅ Postgres
+
+✅ Operating systems
+* ✅ Linux
+* ✅ Unix
+
+🕓 Software development
+* 🕓 Web development
+
+✅ Computer science
+* 🕓 AI and ML
+* 🕓 Blockchain and crypto
+* 🕓 Compilers
+* ✅ Computer architecture
+* ✅ Computer networks
+* ✅ Data structures and algorithms
+* ✅ Theory of computation
+
+🕓 Math
+* 🕓 Calculus
+* 🕓 Linear algebra
+* 🕓 Probability theory
+
 ## License
 
 The content is licensed under a
