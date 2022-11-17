@@ -3,6 +3,10 @@ Status: published
 
 ## Description
 
+**Concurrency** is the ability of a program to deal with multiple things simultaneously. For example, a browser that downloads files while rendering pages and doing million other things at the same time is a highly concurrent program. Concurrent computations may happen at the same physical time – this is called **parallelism** – it improves overall speed of execution. Concurrent computations can also happen in an interleaved manner: a CPU runs one task for some time, then runs another task, then continues with the first one from where it stopped. Programs use this approach to improve responsiveness and to do more things simultaneously than the number of available CPU cores.
+
+Links: [Concurrency (Wikipedia)](https://en.wikipedia.org/wiki/Concurrency_(computer_science)), [Concurrent computing (Wikipedia)](https://en.wikipedia.org/wiki/Concurrent_computing).
+
 ## Resources
 
 [Seven Concurrency Models in Seven Weeks](https://pragprog.com/titles/pb7con/seven-concurrency-models-in-seven-weeks/)
