@@ -3,7 +3,7 @@ Status: published
 
 ## Description
 
-Docker is the most popular [container](https://en.wikipedia.org/wiki/OS-level_virtualization) technology, a set of tools to build, run, and manage containers.
+**Docker** is the most popular [container](https://en.wikipedia.org/wiki/OS-level_virtualization) technology, a set of tools to build, run, and manage containers.
 
 Containers help developers to distribute and deploy their applications easier. First you create an image – a set of files and metadata that fully describe you app's environment such as an OS distribution, system and app dependencies, and the source code. The you run containers – isolated processes created from the image.
 

@@ -3,7 +3,7 @@ Status: published
 
 ## Description
 
-Git is an open source [version control system](https://en.wikipedia.org/wiki/Version_control) (VSC). It was created in 2005 by Linus Torvalds for development of the Linux kernel. Today Git is a dominant VCS. According to the [Stack Overflow 2022 developer survey](https://survey.stackoverflow.co/2022/#version-control-version-control-system), 93.87% of developers use Git. No other technology is used as widely.
+**Git** is an open source [version control system](https://en.wikipedia.org/wiki/Version_control) (VSC). It was created in 2005 by Linus Torvalds for development of the Linux kernel. Today Git is a dominant VCS. According to the [Stack Overflow 2022 developer survey](https://survey.stackoverflow.co/2022/#version-control-version-control-system), 93.87% of developers use Git. No other technology is used as widely.
 
 Links: [git-scm.com](https://git-scm.com/), [Git (Wikipedia)](https://en.wikipedia.org/wiki/Git).
 

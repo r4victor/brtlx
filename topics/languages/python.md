@@ -3,7 +3,7 @@ Status: published
 
 ## Description
 
-Python is a high-level, general-purpose programming language designed by Guido van Rossum and released in 1991. Today it's one of the most popular programming languages in the world. The main reasons are Python's intuitive syntax and a rich ecosystem of libraries that make it a good fit both for beginners and professional developers.
+**Python** is a high-level, general-purpose programming language designed by Guido van Rossum and released in 1991. Today it's one of the most popular programming languages in the world. The main reasons are Python's intuitive syntax and a rich ecosystem of libraries that make it a good fit both for beginners and professional developers.
 
 Python shines in task automation, data science, and web development. But it can be used in almost any domain. As the saying goes, "Python is the second best language for everything".
 

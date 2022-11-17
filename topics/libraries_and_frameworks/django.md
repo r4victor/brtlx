@@ -3,7 +3,7 @@ Status: published
 
 ## Description
 
-Django is the most popular and mature Python web framework. It was created by Adrian Holovaty and Simon Willison to power newspaper websites and released to open source in 2005. Today Django is [one of the most popular web frameworks out there](https://survey.stackoverflow.co/2022/#section-most-popular-technologies-web-frameworks-and-technologies) that runs thousands of websites including [Instagram](https://www.instagram.com/), [Mozilla](https://www.mozilla.org/en-US/), [National Geographic](https://www.nationalgeographic.com/), and [Disqus](https://disqus.com/).
+**Django** is the most popular and mature Python web framework. It was created by Adrian Holovaty and Simon Willison to power newspaper websites and released to open source in 2005. Today Django is [one of the most popular web frameworks out there](https://survey.stackoverflow.co/2022/#section-most-popular-technologies-web-frameworks-and-technologies) that runs thousands of websites including [Instagram](https://www.instagram.com/), [Mozilla](https://www.mozilla.org/en-US/), [National Geographic](https://www.nationalgeographic.com/), and [Disqus](https://disqus.com/).
 
 Django is a framework with "batteries included". Besides basic functionality like URL routing and HTTP-related utilities, it provides an ORM, database migrations, a template engine, forms validation, authentication system and much more. Django's killer feature is an automatic admin interface that lets you manage your app's content with a UI.
 

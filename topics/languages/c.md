@@ -3,7 +3,7 @@ Status: published
 
 ## Description
 
-C is a general-purpose programming language created in the early 1970s by Dennis Ritchie and Ken Thompson at Bell Labs. The development and success of C is tightly coupled with the that of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system. Thompson created Unix in 1969, and in 1973, together with Ritchie, rewrote Unix from assembly to C. As Unix and later Unix-based operating systems spread, C gained adoption as well. C has been ranked among the top programming languages for decades and continues to be widely used today, primarily in system programming.
+**C** is a general-purpose programming language created in the early 1970s by Dennis Ritchie and Ken Thompson at Bell Labs. The development and success of C is tightly coupled with the that of the [Unix](https://en.wikipedia.org/wiki/Unix) operating system. Thompson created Unix in 1969, and in 1973, together with Ritchie, rewrote Unix from assembly to C. As Unix and later Unix-based operating systems spread, C gained adoption as well. C has been ranked among the top programming languages for decades and continues to be widely used today, primarily in system programming.
 
 The ability to read and understand C code is a crucial skill for a software developer since C underlies most software systems that we build upon. Notable C codebases include [Linux](https://github.com/torvalds/linux), [Postgres](https://github.com/postgres/postgres), [redis](https://github.com/redis/redis), [nginx](https://github.com/nginx/nginx), and [CPython](https://github.com/python/cpython).
 
@@ -12,6 +12,8 @@ The C Programming Language book written by Brian Kernighan and Dennis Ritchie in
 The crucial companion to C is the [C standard library](https://en.wikipedia.org/wiki/C_standard_library). It provides macros, type definitions and functions for tasks such as string handling, mathematical computations, input/output processing, memory management, and several other operating system services. It's described by the ISO C standard. It's also described by [POSIX](https://en.wikipedia.org/wiki/POSIX), which makes it an essential part of any Unix-like operating system.
 
 Links: [C (Wikipedia)](https://en.wikipedia.org/wiki/C_(programming_language)), [C standard library (Wikipedia)](https://en.wikipedia.org/wiki/C_standard_library), [C17 standard](https://files.lhmouse.com/standards/ISO%20C%20N2176.pdf), [r/C_Programming](https://www.reddit.com/r/C_Programming/).
+
+Related topics: [Unix](/topics/operating_systems/unix.md).
 
 ## Resources
 
