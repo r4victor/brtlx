@@ -3,6 +3,16 @@ Status: published
 
 ## Description
 
+Django is the most popular and mature Python web framework. It was created by Adrian Holovaty and Simon Willison to power newspaper websites and released to open source in 2005. Today Django is [one of the most popular web frameworks out there](https://survey.stackoverflow.co/2022/#section-most-popular-technologies-web-frameworks-and-technologies) that runs thousands of websites including [Instagram](https://www.instagram.com/), [Mozilla](https://www.mozilla.org/en-US/), [National Geographic](https://www.nationalgeographic.com/), and [Disqus](https://disqus.com/).
+
+Django is a framework with "batteries included". Besides basic functionality like URL routing and HTTP-related utilities, it provides an ORM, database migrations, a template engine, forms validation, authentication system and much more. Django's killer feature is an automatic admin interface that lets you manage your app's content with a UI.
+
+Django's "batteries included" approach is the opposite of that taken by micro-frameworks such [Flask](https://flask.palletsprojects.com/en/2.2.x/) that provide only minimal set of features and let you integrate any extra functionality via third-party libraries. Beginners should consider Django because it makes a lot of choices for them.
+
+Django shines in building full-stack web applications with server side rendering. It wasn't designed for building APIs like [FastAPI](https://fastapi.tiangolo.com/), but [Django REST framework](https://www.django-rest-framework.org/) makes Django a good tool for this job as well.
+
+Links: [djangoproject.com](https://www.djangoproject.com/), [Django on GitHub](https://github.com/django/django/),  [Django (Wikipedia)](https://en.wikipedia.org/wiki/Django_(web_framework)), [Awesome Django](https://github.com/wsvincent/awesome-django), [Web Frameworks for Python](https://wiki.python.org/moin/WebFrameworks).
+
 ## Resources
 
 [Django documentation](https://docs.djangoproject.com/)
