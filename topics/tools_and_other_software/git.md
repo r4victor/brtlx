@@ -7,6 +7,8 @@ Status: published
 
 Links: [git-scm.com](https://git-scm.com/), [Git (Wikipedia)](https://en.wikipedia.org/wiki/Git).
 
+Related topic: [Linux](/topics/operating_systems/linux.md).
+
 ## Resources
 
 [Git documentation](https://git-scm.com/doc)

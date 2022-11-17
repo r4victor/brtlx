@@ -7,6 +7,8 @@ Status: published
 
 Links: [www.kernel.org](https://www.kernel.org/), [Linux (Wikipedia)](https://en.wikipedia.org/wiki/Linux).
 
+Related topics: [Unix](/topics/operating_systems/unix.md), [C](/topics/languages/c.md), [Shell](/topics/languages/shell.md).
+
 ## Resources
 
 [Linux Journey](https://linuxjourney.com/)

@@ -7,7 +7,7 @@ Status: published
 
 Python shines in task automation, data science, and web development. But it can be used in almost any domain. As the saying goes, "Python is the second best language for everything".
 
-Links: [python.org](https://www.python.org/), [CPython on GitHub](https://github.com/python/cpython), [Python (Wikipedia)](https://en.wikipedia.org/wiki/Python_(programming_language)), [r/Python](https://www.reddit.com/r/Python/), [r/learnpython](https://www.reddit.com/r/learnpython).
+Links: [python.org](https://www.python.org/), [CPython on GitHub](https://github.com/python/cpython), [Python (Wikipedia)](https://en.wikipedia.org/wiki/Python_(programming_language)), [r/Python](https://www.reddit.com/r/Python/), [r/learnpython](https://www.reddit.com/r/learnpython), [Awesome Python](https://github.com/vinta/awesome-python).
 
 ## Resources
 

@@ -13,6 +13,8 @@ In 1991 Linus Torvalds developed Linux, an open-source Unix kernel implemented f
 
 Links: [Unix (Wikipedia)](https://en.wikipedia.org/wiki/Unix), [History of Unix (Wikipedia)](https://en.wikipedia.org/wiki/History_of_Unix), [UNIX Standard](https://www.opengroup.org/membership/forums/platform/unix), [POSIX.1-2017](https://pubs.opengroup.org/onlinepubs/96999).
 
+Related topics: [C](/topics/languages/c.md), [Shell](/topics/languages/shell.md), [Linux](/topics/operating_systems/linux.md).
+
 ## Resources
 
 [The Unix Programming Environment](https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X)
