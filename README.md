@@ -47,6 +47,7 @@ The following is a list of all the topics already covered (✅) and the topics t
 
 ✅ Libraries and frameworks
 * ✅ Django
+* 🕓 Node.js
 * 🕓 React
 * 🕓 Ruby on Rails
 
