@@ -51,7 +51,6 @@ The following is a list of all the topics already covered (✅) and the topics t
 * 🕓 Ruby on Rails
 
 ✅ Tools and other software
-* ✅ AWS
 * ✅ Docker
 * ✅ Git
 * 🕓 Kubernetes
@@ -65,7 +64,13 @@ The following is a list of all the topics already covered (✅) and the topics t
 * ✅ Linux
 * ✅ Unix
 
+✅ Cloud platforms
+* ✅ AWS
+* 🕓 Azure
+* 🕓 GCP
+
 🕓 Software development
+* 🕓 Concurrent programming
 * 🕓 Web development
 
 ✅ Computer science
