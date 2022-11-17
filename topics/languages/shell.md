@@ -13,6 +13,8 @@ Shell scripting has many quirks and legacy features. It's more and more common t
 
 Links: [Unix shell (Wikipedia)](https://en.wikipedia.org/wiki/Unix_shell), [Comparison of command shells (Wikipedia)](https://en.wikipedia.org/wiki/Comparison_of_command_shells), [List of Unix commands (Wikipedia)](https://en.wikipedia.org/wiki/List_of_Unix_commands), [The Origin of the Shell](https://multicians.org/shell.html), [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9699919799/), [ShellCheck](https://github.com/koalaman/shellcheck), [explainshell.com](https://explainshell.com/).
 
+Related topics: [Unix](/topics/unix/), [Linux](/topics/linux/).
+
 ## Resources
 
 [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9699919799/)

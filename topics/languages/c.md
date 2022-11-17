@@ -13,7 +13,7 @@ The crucial companion to C is the [C standard library](https://en.wikipedia.org/
 
 Links: [C (Wikipedia)](https://en.wikipedia.org/wiki/C_(programming_language)), [C standard library (Wikipedia)](https://en.wikipedia.org/wiki/C_standard_library), [C17 standard](https://files.lhmouse.com/standards/ISO%20C%20N2176.pdf), [r/C_Programming](https://www.reddit.com/r/C_Programming/).
 
-Related topics: [Unix](/topics/operating_systems/unix.md).
+Related topics: [Unix](/topics/unix/).
 
 ## Resources
 

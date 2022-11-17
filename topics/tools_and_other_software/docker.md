@@ -9,6 +9,8 @@ Containers help developers to distribute and deploy their applications easier. F
 
 Links: [www.docker.com](https://www.docker.com/), [Docker (Wikipedia)](https://en.wikipedia.org/wiki/Docker_(software)), [r/docker](https://www.reddit.com/r/docker/).
 
+Related topics: [Linux](/topics/linux/).
+
 ## Resources
 
 [Docker docs](https://docs.docker.com/)

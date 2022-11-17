@@ -9,6 +9,8 @@ Python shines in task automation, data science, and web development. But it can 
 
 Links: [python.org](https://www.python.org/), [CPython on GitHub](https://github.com/python/cpython), [Python (Wikipedia)](https://en.wikipedia.org/wiki/Python_(programming_language)), [r/Python](https://www.reddit.com/r/Python/), [r/learnpython](https://www.reddit.com/r/learnpython), [Awesome Python](https://github.com/vinta/awesome-python).
 
+Related topics: [Django](/topics/django/).
+
 ## Resources
 
 [Python documentation](https://docs.python.org/3/)

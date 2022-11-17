@@ -13,7 +13,7 @@ Django shines in building full-stack web applications with server side rendering
 
 Links: [djangoproject.com](https://www.djangoproject.com/), [Django on GitHub](https://github.com/django/django/),  [Django (Wikipedia)](https://en.wikipedia.org/wiki/Django_(web_framework)), [Awesome Django](https://github.com/wsvincent/awesome-django), [Web Frameworks for Python](https://wiki.python.org/moin/WebFrameworks).
 
-Related topics: [Python](/topics/languages/python.md).
+Related topics: [Python](/topics/python/).
 
 ## Resources
 
