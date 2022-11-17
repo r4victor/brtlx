@@ -69,8 +69,8 @@ The following is a list of all the topics already covered (✅) and the topics t
 * 🕓 Azure
 * 🕓 GCP
 
-🕓 Software development
-* 🕓 Concurrent programming
+✅ Software development
+* ✅ Concurrent programming
 * 🕓 Web development
 
 ✅ Computer science
