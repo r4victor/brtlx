@@ -7,7 +7,7 @@ Status: published
 
 The term shell and the idea of a program running other programs was introduced by Louis Pouzin for the [Multics](https://en.wikipedia.org/wiki/Multics) operating system in 1964. In 1971, Ken Thompson implemented the first Unix shell known as the [Thompson shell](https://en.wikipedia.org/wiki/Thompson_shell) (`sh`) that came with the very first version of Unix. In 1979, it was replaced by the Bourne shell (`sh`). Another influential shell is the [C shell](https://en.wikipedia.org/wiki/C_shell) (`csh`) that found its way in the BSD version of Unix in the late 1970s. Different incompatible shells started to arise, so [POSIX](https://en.wikipedia.org/wiki/POSIX) defined features that should be common to all Unix shells. A subset of the [Korn shell](https://en.wikipedia.org/wiki/KornShell) (`ksh`) was used as a basis for the standard. [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) (`bash`) is a shell for the [GNU Project](https://en.wikipedia.org/wiki/GNU_Project "GNU Project"). It's a default interactive shell on most Linux distributions. Some Linux distributions use [Dash](https://en.wikipedia.org/wiki/Almquist_shell#dash) (`dash`) as a scripting shell. While `bash` extends POSIX, `dash` tries to be as minimal as possible to conform to the standard. The [Z shell](https://en.wikipedia.org/wiki/Z_shell) (`zsh`) is another popular shell, which is default on macOS since Catalina.
 
-`bash` is the most popular shell for scripting because it's so widely available. But since `bash` is not guaranteed to be present on any Unix-like system, it's a common practice to write scripts using only features defined by POSIX. Which interactive shell to use is more of a matter of personal taste. Both `bash` and `zsh` are popular. You may also like [`fish`](https://en.wikipedia.org/wiki/Fish_(Unix_shell)).
+`bash` is the most popular shell for scripting because it's so widely available. But since `bash` is not guaranteed to be present on any Unix-like system, it's a common practice to write scripts using only features defined by POSIX. Which interactive shell to use is more of a matter of personal taste. Both `bash` and `zsh` are popular. You may also like [`fish`](https://en.wikipedia.org/wiki/Fish_(Unix_shell)). New [Oil Shell](https://www.oilshell.org/) turns a shell into a solid programming language.
 
 Shell scripting has many quirks and legacy features. It's more and more common to see shell scripting being replaced with languages like Python. Nevertheless, shell scripts are not going to go anywhere. They work well for invoking other commands and can be executed almost anywhere.
 
@@ -36,3 +36,11 @@ This is an indispensable resource for anyone doing shell programming. [BashFAQ](
 [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
 free • resource • by Joshua Levy
 This repo lists shell features and CLI tools that you need to know to master the command line from the basics like file management to advanced tips and obscure commands.
+
+[The Architecture of Open Source Applications: The Bourne-Again Shell](http://aosabook.org/en/index.html)
+free • article • by Chet Ramey • 2011-05-11
+This is a chapter of the [AOSA book](http://aosabook.org/en/index.html) in which Chet Ramey, the Bash maintainer, explains how Bash works. He gives an overview of the Bash architecture and presents key challenges in the implementation of a real shell.
+
+[Build Your Own Shell](https://github.com/tokenrove/build-your-own-shell)
+free • course • by Julian Squires • 2019-04-13
+There are many tutorials on how to build your own toy shell. This one goes further and shows how to implement a real, feature-rich shell in multiple stages.
