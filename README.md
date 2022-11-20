@@ -37,6 +37,7 @@ The following is a list of all the topics already covered (✅) and the topics t
 
 ✅ Languages
 * ✅ C
+* 🕓 C#
 * 🕓 Go
 * 🕓 HTML and CSS
 * 🕓 Java
@@ -46,10 +47,12 @@ The following is a list of all the topics already covered (✅) and the topics t
 * 🕓 SQL
 
 ✅ Libraries and frameworks
+* 🕓 ASP.NET Core
 * ✅ Django
 * 🕓 Node.js
 * 🕓 React
 * 🕓 Ruby on Rails
+* 🕓 Spring
 
 ✅ Tools and other software
 * ✅ Docker
@@ -67,8 +70,8 @@ The following is a list of all the topics already covered (✅) and the topics t
 
 ✅ Cloud platforms
 * ✅ AWS
-* 🕓 Azure
-* 🕓 GCP
+* 🕓 Google Cloud
+* 🕓 Microsoft Azure
 
 ✅ Software development
 * ✅ Concurrent programming
