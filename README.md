@@ -27,9 +27,11 @@ There are no strict rules about the content, but there are some principles that 
 
 ## How to contribute
 
-If you want to suggest a new resource, just open an issue. The person who curates the topic will look at it and make all the necessary steps to add it to the website. This is more flexible that opening a PR. 
+If you want to suggest a new resource, just [open an issue](https://github.com/r4victor/brtlx/issues/new?assignees=&labels=new+resource&template=new-resource.md&title=Add+%7Btopic_name%7D+resource+%7Bresource_title%7D).
 
-If you want to become a topic curator, please drop me an email: victor@tenthousandmeters.com. I'd like to learn a bit about you, what topics you're interested in, and what you can cover.
+If you want to request a new topic, look for an existing issue or [open a new one](https://github.com/r4victor/brtlx/issues/new).
+
+If you want to cover a new topic yourself, you can start with an issue and then a PR. I'd also like you to drop me an email if you want to become a topic curator to discuss the project: victor@tenthousandmeters.com.
 
 ## Topics roadmap
 
