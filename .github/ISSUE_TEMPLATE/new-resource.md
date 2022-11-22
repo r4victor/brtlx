@@ -22,18 +22,20 @@ It directly corresponds to the resource info available on the website.
 **Resource link** <!-- The link to the official website, the publisher, or amazon -->
 
 
-**Available for free** <!-- Mark [x] if available for free -->
-* [ ] yes
+**Available for free** <!-- Leave one -->
+yes
+no
 
-**Resource type** <!-- Choose one -->
-* [ ] article
-* [ ] book
-* [ ] video
-* [ ] course
-* [ ] other resource (e.g. docs, wiki, awesome list)
+**Resource type** <!-- Leave one -->
+article
+book
+video
+course
+other resource <!-- e.g. docs, wiki, awesome list) -->
 
-**Is series** <!-- The resource is a series/collection -->
-* [ ] yes
+**Is series** <!-- The resource is a series/collection. Leave one -->
+yes
+no
 
 **Authors** <!-- The comma separated list of authors, e.g. "Brian Kernighan, Dennis Ritchie" -->
 
