@@ -3,7 +3,7 @@ Status: published
 
 ## Description
 
-**PostgreSQL** (a.k.a. **Postgres**) is one of the most popular and advanced open-source databases out there. It's a [relational database management system](https://en.wikipedia.org/wiki/Relational_database) (RDMS) that supports a large part of the SQL standard and offers many modern features.
+**PostgreSQL** (a.k.a. **Postgres**) is one of the most popular and advanced open-source databases out there. It's a [relational database management system](https://en.wikipedia.org/wiki/Relational_database) (RDBMS) that supports a large part of the SQL standard and offers many modern features.
 
 All major cloud providers including [AWS](https://aws.amazon.com/rds/postgresql/), [Azure](https://azure.microsoft.com/en-us/products/postgresql/), [Google Cloud](https://cloud.google.com/sql/docs/postgres), [Heroku](https://devcenter.heroku.com/articles/heroku-postgresql), and [Digital Ocean](https://docs.digitalocean.com/products/databases/postgresql/) offer Postgres database as a managed service.
 
