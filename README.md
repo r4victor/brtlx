@@ -80,7 +80,7 @@ The following is a list of all the topics already covered (✅) and the topics t
 * 🕓 Web development
 
 ✅ Computer science
-* 🕓 AI and ML
+* ✅ AI and ML
 * 🕓 Blockchain and crypto
 * 🕓 Compilers
 * ✅ Computer architecture
@@ -88,10 +88,10 @@ The following is a list of all the topics already covered (✅) and the topics t
 * ✅ Data structures and algorithms
 * ✅ Theory of computation
 
-🕓 Math
+✅ Math
 * 🕓 Calculus
 * 🕓 Linear algebra
-* 🕓 Probability theory
+* ✅ Probability theory
 
 ## License
 
