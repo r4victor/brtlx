@@ -90,7 +90,7 @@ The following is a list of all the topics already covered (✅) and the topics t
 
 ✅ Math
 * 🕓 Calculus
-* 🕓 Linear algebra
+* ✅ Linear algebra
 * ✅ Probability theory
 
 ## License
