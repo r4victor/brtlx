@@ -17,3 +17,8 @@ This book is a comprehensive, practical introduction to machine learning. It cov
 paid • book • by François Chollet • 2021-10-01
 This book is a concise, beginner-friendly guide on how to build and train neural networks with Keras and TensorFlow by the author of Keras. You'll get hands-on experience in solving all kinds of ML problems including tabular data classification and regression, text classification, image classification, timeseries forecasting, machine translation, text generation, and image generation. And you'll learn about the fundamental and most recent deep learning methods to solve those problems: densely connected networks, CNNs, RNNs, transformers, autoencoders, and GANs. This book offers a unique blend of practical advice, deep learning theory, and insights into the nature of intelligence and cognition.
 
+[Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+free • resource • by EthicalML
+A curated list of open source libraries and platforms to deploy, monitor, version and scale your machine learning.
+
+
