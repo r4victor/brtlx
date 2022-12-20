@@ -47,6 +47,7 @@ The following is a list of all the topics already covered (✅) and the topics t
 * ✅ Python
 * ✅ Shell
 * 🕓 SQL
+* 🕓 TypeScript
 
 ✅ Libraries and frameworks
 * 🕓 ASP.NET Core
@@ -68,6 +69,7 @@ The following is a list of all the topics already covered (✅) and the topics t
 
 ✅ Operating systems
 * ✅ Linux
+* 🕓 macOS
 * ✅ Unix
 
 ✅ Cloud platforms
@@ -77,7 +79,7 @@ The following is a list of all the topics already covered (✅) and the topics t
 
 ✅ Software development
 * ✅ Concurrent programming
-* 🕓 Web development
+* ✅ Web development
 
 ✅ Computer science
 * ✅ AI and ML
