@@ -38,8 +38,8 @@ paid • book • by Anthony Shaw • 2021-05-05
 This book gets you familiar with the CPython source code to the point where you'll be able to modify and extend the language. If you want to start contributing to CPython, this is a great place to start.
 
 [Full Stack Python](https://www.fullstackpython.com/)
-free • resource • by Matt Makai
-This book covers everything you need know to create, deploy and operate Python-powered web applications: from Python itself to relational and NoSQL databases, frameworks, frontend development, web servers, and monitoring tools. It doesn't go through every topic in detail but instead gives you a list of best resources to learn the topic.
+free • book • by Matt Makai
+This book covers everything you need to know to create, deploy and operate Python-powered web applications: Python itself, relational and NoSQL databases, frameworks, frontend development, web servers, monitoring tools, and so on. It doesn't go through every topic in detail but gives you a list of excellent resources to learn the topic.
 
 [Awesome Python](https://github.com/vinta/awesome-python)
 free • resource • by Vinta Chen
