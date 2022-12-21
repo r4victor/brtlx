@@ -43,7 +43,7 @@ The following is a list of all the topics already covered (✅) and the topics t
 * 🕓 Go
 * 🕓 HTML and CSS
 * 🕓 Java
-* 🕓 JavaScript
+* ✅ JavaScript
 * ✅ Python
 * ✅ Shell
 * 🕓 SQL
