@@ -17,3 +17,6 @@ This is a course on modern web development with JavaScript. You'll learn how to 
 free • book • by Matt Makai
 This book covers everything you need to know to create, deploy and operate Python-powered web applications: Python itself, relational and NoSQL databases, frameworks, frontend development, web servers, monitoring tools, and so on. It doesn't go through every topic in detail but gives you a list of excellent resources to learn the topic.
 
+[RealWorld example apps](https://github.com/gothinkster/realworld)
+free • resource
+See how the exact same Medium.com clone is built using different frontend and backend technologies. If you want to learn how people use React, Angular, Vue.js, Express, ASP.NET Core, Django, or other framework in production-like environment, you may find this project helpful.
