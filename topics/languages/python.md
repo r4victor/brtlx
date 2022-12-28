@@ -19,7 +19,11 @@ The [Tutorial](https://docs.python.org/3/tutorial/index.html) lets you pick up P
 
 [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
 free • book • by Al Sweigart • 2019-11-01
-This book is an excellent introduction to programming in general and Python in particular. Besides learning the basics of programming, you'll also learn how to apply them: write text-based games, scrape websites, work with spreadsheets, PDFs, docs and more.
+This is an excellent practice-oriented Python book suitable both for absolute beginners and more experienced programmers. Besides teachings the basics of programming, it shows you how to apply them in practice: write text-based games, scrape websites, work with spreadsheets, PDFs, docs, and more. If you want to learn how to write useful real-world programs as soon as possible, this is the book for you.
+
+[Think Python, 2nd edition](https://greenteapress.com/wp/think-python-2e/)
+free • book • by Allen B. Downey • 2016-01-26
+This book is a great concise introduction to Python, and programming in general. In less than 300 pages, it covers enough of Python constructs and concepts to start writing useful programs. Most importantly, it teaches you problem-solving skills and how to think like a computer scientist. The book features good exercises and guidance to make learning fun and knowledge lasting. Also, the author Allen B. Downey wrote an entire [collection of excellent free books](https://greenteapress.com/wp/), including the similar [Think Java](http://greenteapress.com/wp/think-java-2e/) book.
 
 [Python Distilled](https://www.dabeaz.com/python-distilled/index.html)
 paid • book • by David Beazley • 2021-09-21
