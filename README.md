@@ -79,6 +79,7 @@ The following is a list of all the topics already covered (✅) and the topics t
 
 ✅ Software development
 * ✅ Concurrent programming
+* ✅ System design
 * ✅ Web development
 
 ✅ Computer science

@@ -20,3 +20,7 @@ free • resource
 [The Open Guide to AWS](https://github.com/open-guides/og-aws)
 free • resource
 This guide is a collection of links, tips, gotchas, and best practices for AWS. It describes AWS main services in plain English and contains a lot of practical advice on why, when, and how to use them.
+
+[AWS re:Invent 2019: Scaling up to your first 10 million users](https://www.youtube.com/watch?v=kKjm4ehYiMs)
+free • video • by Brian Farnhill, Hong Pham • 2019-12-07
+This talk will walk you through the evolution of a typical AWS infrastructure that powers a web application as it grows from one user to thousands and millions of users. You'll learn about which AWS services you should start with, how to scale your app with auto-scaling and workload shifting, and when to go serverless.
