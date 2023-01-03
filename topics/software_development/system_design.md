@@ -11,7 +11,7 @@ System design often refers specifically to the design of scalable, distributed s
 
 With the advent of cloud computing, the knowledge of services offered by cloud providers like [AWS](/topics/aws/) became crucial for system design. Today, you probably won't build your own infrastructure and are less likely to host your own services and instead use managed, auto-scalable, and serverless solutions provided by the cloud. To be good at system design, you need less and less fundamental knowledge of distributed systems and more and more understanding of cloud providers' quirks and best practices.
 
-Related topics: [AWS](/topics/aws/), [Computer networks](https://bestresourcestolearnx.com/topics/computer-networks/), [Databases](/topics/databases/).
+Related topics: [AWS](/topics/aws/), [Computer networks](/topics/computer-networks/), [Databases](/topics/databases/).
 
 ## Resources
 
@@ -30,3 +30,7 @@ This repo is a high-level guide to designing large-scale systems and a collectio
 [AWS re:Invent 2019: Scaling up to your first 10 million users](https://www.youtube.com/watch?v=kKjm4ehYiMs)
 free • video • by Brian Farnhill, Hong Pham • 2019-12-07
 This talk will walk you through the evolution of a typical AWS infrastructure that powers a web application as it grows from one user to thousands and millions of users. You'll learn about which AWS services you should start with, how to scale your app with auto-scaling and workload shifting, and when to go serverless.
+
+[CNCF Landscape](https://landscape.cncf.io/)
+free • resource • by CNCF
+This is a catalog of widely used and emerging open-source and proprietary technologies for building cloud-native applications – tools for automation & configuration, container runtimes, container orchestration, message brokers, databases, monitoring, CI/CD, and other major components of a modern tech stack. Check out the [CNCF Landscape Guide](https://landscape.cncf.io/guide) for a gentle introduction to each category of tools.
