@@ -22,7 +22,7 @@ There are no strict rules about the content, but there are some principles that 
 2. The topics are organized into the hierarchy. There are many ways to do this. We keep the hierarchy flat (2 levels at the moment). If the topic needs subtopics, it's important enough to be at the top level.
 3. Each topic has a list of resources and a description. The purpose of the topic description is to provide the context for further learning. It may define the topic, give historical background, describe its usage and importance, include links to Wikipedia and other useful places.
 4. Each resource has a description as well. It should tell about resource's content and target audience so learners can quickly determine if the resource suits them. The description may also provide some guidance on how to use the resource (e.g. it's a documentation with a complicated structure).
-5. Different resources target different audiences. Put first resources that are relevant for everyone such as official docs, then general resources for beginners, intermediate and advanced learners, then more specialized resources that cover certain aspects of the topic.
+5. Different resources target different audiences. Put first resources that are relevant to everyone such as official docs, then general resources for beginners, intermediate and advanced learners, then more specialized resources that cover certain aspects of the topic.
 6. Less is better. Don't add a resource if it does not stand out from those already added. Some reasons to add a resource are: it's better; it's free; it targets a new audience; it's an underrepresented content type, such as a video course.
 
 ## How to contribute
