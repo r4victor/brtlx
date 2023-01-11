@@ -9,7 +9,7 @@ During browser wars, there were multiple versions of JavaScript including then p
 
 JavaScript is [known for its quirks](https://www.destroyallsoftware.com/talks/wat), and few JavaScript developers haven't experienced [JavaScript Fatigue](https://auth0.com/blog/how-to-manage-javascript-fatigue/). But the language improved a lot since the early days. It is the language to learn if you're going to do web development. The [Node.js](https://nodejs.org/en/) runtime also makes it a decent choice for server-side programming.
 
-Links: [JavaScript (Wikipedia)](https://en.wikipedia.org/wiki/JavaScript), [ECMAScript (Wikipedia)](https://en.wikipedia.org/wiki/ECMAScript), [ECMAScript Language Specification](https://tc39.es/ecma262/#sec-intro).
+Links: [JavaScript (Wikipedia)](https://en.wikipedia.org/wiki/JavaScript), [ECMAScript (Wikipedia)](https://en.wikipedia.org/wiki/ECMAScript), [ECMAScript Language Specification](https://tc39.es/ecma262/#sec-intro), [State of JS 2022](https://2022.stateofjs.com/en-US/).
 
 Related topics: [Web development](/topics/web-development/).
 
