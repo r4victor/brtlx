@@ -25,4 +25,4 @@ In 1937 Alan Turing published a paper titled "On Computable Numbers" in which he
 
 [Elements of Automata Theory](https://www.amazon.com/Elements-Automata-Theory-Jacques-Sakarovitch/dp/0521844258)
 paid • book • by Jacques Sakarovitch • 2013-09-01
-This book is a treatise on finite automata theory. It's 750 pages long, very mathematical, and yet exceptionally well-written text. You'll learn about fundamental notions like rationality and recognizability as well as advanced results about automata over different mathematical structures.
+This book is a treatise on finite automata theory. It's 750-page-long, very mathematical, and yet exceptionally well-written text. You'll learn about fundamental notions like rationality and recognizability as well as advanced results about finite automata over different mathematical structures.

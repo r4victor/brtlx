@@ -19,16 +19,16 @@ Related topics: [Unix](/topics/unix/).
 
 [The C Programming Language, 2nd edition](https://www.amazon.com/Brian-W-Kernighan/dp/0131103628)
 paid • book • by Brian Kernighan, Dennis Ritchie • 1988-03-22
-"Don't read any further until you have this book". The first edition, known as K&R, was the primary source of knowledge on the language. The second edition with ANSI C updates continues to be an excellent introduction to C. It covers all the C essential features and contains readable references on the language and the standard library. Note, however, that you'll need to check other resources as well for the recent C updates and guidance on the design of real-world C programs. Overall, K&R is an exemplar of technical writing produced by two greats in the field.
+"Don't read any further until you have this book." The first edition, known as K&R, served as the de facto specification for C until the language was standardized. The second edition, with ANSI C updates, continues to be an excellent introduction to C. It covers all of C's essential features and contains readable references on the language and the standard library. Note, however, that you'll need to check other resources for recent C updates and guidance on the design of real-world C programs. Overall, K&R is an exemplar of technical writing produced by two greats in the field.
 
 [Beej's Guide to C Programming](https://beej.us/guide/bgc/)
 free • book • by Brian “Beej Jorgensen” Hall • 2022-07-25
-This book is an excellent introduction to C for programmers coming from other languages. It covers all the features of modern C and gives practical advice on how to use them. It also includes a reference on the C standard library that is full of examples.
+This book is an excellent introduction to C for programmers coming from other languages. It covers all the features of modern C and provides practical advice on how to use them. It also includes a reference on the C standard library, complete with examples.
 
 [21st Century C, 2nd edition](https://www.oreilly.com/library/view/21st-century-c/9781491904428/)
 paid • book • by Ben Klemens • 2014-10-01
-This book focuses on the current state of C programming and covers what other C books don’t. You'll learn how to build, test, debug, and document your C programs, and how to take advantage of third-party libraries and modern C features and idioms to write maintainable C code.
+This book focuses on the current state of software development using C and covers what other C books don’t – you'll learn how to build, test, debug, and document your C programs and how to take advantage of third-party libraries and modern C features and idioms to write maintainable C code.
 
 [Expert C Programming](https://www.oreilly.com/library/view/expert-c-programming/0131774298/)
 paid • book • by Peter van der Linden • 1994-06-01
-This book is for people who are already writing C programs and who want to quickly pick up some of the insights and techniques of experts. It gives the historical perspective, demystifies C's quirks, and contains a lot of practical advice on writing C code. Despite the advanced material, it's an easy and entertaining read.
+This is a book for people who are already writing C programs and want to quickly pick up some of the insights and techniques of experts. It gives a historical perspective, demystifies C's quirks, and contains a lot of practical advice on writing C code. Despite the advanced material, it's an easy and entertaining read.

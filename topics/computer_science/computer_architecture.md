@@ -7,7 +7,7 @@ Status: published
 
 [Code: The Hidden Language of Computer Hardware and Software, 2nd Edition](https://www.codehiddenlanguage.com/Chapter00/)
 paid • book • by Charles Petzold • 2022-08-07
-This book is the best introduction to the world of computers. It starts with simple concepts and builds a very deep understanding of how computers work: from 0s and 1s to electricity, logical gates, circuits, and CPUs. It's a great read for newcomers as well as experts.
+This book is the best introduction to the world of computers. It starts with simple concepts and builds a very deep understanding of how computers work: from 0s and 1s to electricity to logical gates to circuits and CPUs. It's a great read for audiences of all levels.
 
 [Computer Organization and Design RISC-V Edition](https://www.elsevier.com/books/computer-organization-and-design-risc-v-edition/patterson/978-0-12-820331-6) 
 paid • book • by David Patterson, John Hennessy • 2020-12-11

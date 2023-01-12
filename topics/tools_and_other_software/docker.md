@@ -5,7 +5,7 @@ Status: published
 
 **Docker** is the most popular [container](https://en.wikipedia.org/wiki/OS-level_virtualization) technology, a set of tools to build, run, and manage containers.
 
-Containers help developers to distribute and deploy their applications easier. First you create an image – a set of files and metadata that fully describe you app's environment such as an OS distribution, system and app dependencies, and the source code. The you run containers – isolated processes created from the image.
+Containers help developers to distribute and deploy their applications easier. First you create an image – a set of files and metadata that fully describe your app and its environment. This includes an OS distribution, system and app dependencies, and the source code or a compiled binary. The you run containers – isolated processes created from the image.
 
 Links: [www.docker.com](https://www.docker.com/), [Docker (Wikipedia)](https://en.wikipedia.org/wiki/Docker_(software)), [r/docker](https://www.reddit.com/r/docker/).
 
@@ -23,7 +23,7 @@ In this talk Liz Rice shows that containers are really just Linux processes isol
 
 [Play with Docker](https://labs.play-with-docker.com)
 free • resource • by Marcos Nils, Jonathan Leibiusky
-This website gives you an Alpine Linux VM in your browser, where you can build and run Docker containers.
+This website provides you with an Alpine Linux VM in your browser that you can use to build and run Docker containers.
 
 [Play with Docker Classroom](https://training.play-with-docker.com)
 free • course • series

@@ -3,7 +3,7 @@ Status: published
 
 ## Description
 
-**Linux** is an open source [Unix-like](https://en.wikipedia.org/wiki/Unix-like) operating system developed by Linus Torvalds and released in 1991. It implements the core functionality of an operating system – the Linux kernel, which deals with things like process scheduling, memory management, networking and file system functionality, and provides low-level APIs, mainly in the form syscalls. Linux becomes a full-fledged operating system when bundled with an init system, the C standard library, command-line utilities, a package management system, and other software that often comes from the [GNU project](https://en.wikipedia.org/wiki/GNU_Project). These bundles are called Linux distributions and include names like Debian, Ubuntu, Red Hat Enterprise Linux, and Amazon Linux. Today Linux distributions dominate many computing markets: web servers, supercomputers, and embedded systems. Android and Chrome OS are other popular operating systems based on the Linux kernel.
+**Linux** is an open source, [Unix-like](https://en.wikipedia.org/wiki/Unix-like) operating system developed by Linus Torvalds and released in 1991. It implements the core functionality of an operating system – the Linux kernel, which deals with things like process scheduling, memory management, networking and file system functionality and provides low-level APIs, mainly in the form of syscalls. Linux becomes a full-fledged operating system when bundled with an init system, the C standard library, command-line utilities, a package management system, and other software that often comes from the [GNU project](https://en.wikipedia.org/wiki/GNU_Project). These bundles are called Linux distributions and include names like Debian, Ubuntu, Red Hat Enterprise Linux, and Amazon Linux. Today Linux distributions dominate many computing markets: web servers, supercomputers, and embedded systems. Android and Chrome OS are two other popular operating systems based on the Linux kernel.
 
 Links: [www.kernel.org](https://www.kernel.org/), [Linux (Wikipedia)](https://en.wikipedia.org/wiki/Linux).
 
@@ -17,7 +17,7 @@ This is a great introductory tutorial on Linux that briefly covers all the impor
 
 [The Linux Programming Interface](https://man7.org/tlpi/)
 paid • book • by Michael Kerrisk • 2010-10-01
-This book is the best reference on Linux and Unix programming. It's monumental - 1552 pages covering system calls, library functions, and other Linux interfaces. But it is also an enjoyable read and an excellent source for learning how various parts of Linux work.
+This book is the best reference on Linux and Unix programming. It's monumental - 1552 pages covering system calls, library functions, and other Linux interfaces. But it is also an enjoyable read and an excellent resource for learning how various parts of Linux work.
 
 [Linux Kernel Development, 3rd edition](https://www.amazon.com/Linux-Kernel-Development-Robert-Love/dp/0672329468)
 paid • book • by Robert Love • 2010-06-22
